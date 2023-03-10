@@ -1,6 +1,6 @@
 # GUI-Calculator
-Simple GUI calculator using python
-To create a gui screen we need to follow some steps that we can see below:.
+Simple GUI calculator using python::
+To create a gui screen we need to follow some steps that we can see below::
      Importing the tkinter library.
      Then Initialize the root window
      Then add number of widgets like label ,button etc.
